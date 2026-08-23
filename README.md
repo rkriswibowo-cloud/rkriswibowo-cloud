@@ -82,7 +82,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rkriswibowo-cloud/rkriswibowo-cloud/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/rkriswibowo-cloud/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -91,6 +91,6 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=rkriswibowo-cloud&style=for-the-badge&color=blue"/>
 
 </div>

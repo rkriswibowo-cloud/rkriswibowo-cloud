@@ -91,13 +91,16 @@
 
 ---
 
+
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rkriswibowo-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rkriswibowo-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 </p>
+
+
 
 
 <p align="center">
@@ -124,7 +127,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rkriswibowo-cloud&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rkriswibowo-cloud&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
